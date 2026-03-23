@@ -51,12 +51,12 @@ Alex, an FSU student, is booking a flight home for spring break on his phone.
 
 ## Storyboard Images
 
-![Scene 1](storyboard1.jpg)
-![Scene 2](storyboard2.jpg)
-![Scene 3](storyboard3.jpg)
-![Scene 4](storyboard4.jpg)
-![Scene 5](storyboard5.jpg)
-![Scene 6](storyboard6.jpg)
+![Scene 1](images/storyboard1.jpg)
+![Scene 2](images/storyboard2.jpg)
+![Scene 3](images/storyboard3.jpg)
+![Scene 4](images/storyboard4.jpg)
+![Scene 5](images/storyboard5.jpg)
+![Scene 6](images/storyboard6.jpg)
 
 ---
 
